@@ -1,0 +1,12 @@
+langgraph
+langchain
+python-dotenv
+langchain-community
+langchain-core
+langchain-ollama
+langchain-openai
+langchain-anthropic
+langchain-groq
+langchain-google-genai
+ipykernel
+grandalf
